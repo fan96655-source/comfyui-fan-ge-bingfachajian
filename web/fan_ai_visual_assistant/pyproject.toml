@@ -1,0 +1,10 @@
+[project]
+name = "fan-ai-visual-assistant"
+version = "0.1.0"
+description = "🚀 帆 AI 视觉个人助手"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
